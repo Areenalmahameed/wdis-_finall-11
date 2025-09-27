@@ -28,8 +28,5 @@ Requirements
 - catboost
 - optuna
 - joblib
-- How to Run
-- train_data.csv
-sample_solution.csv
-test_data.csv
+
 All models are optimized with Optuna to minimize RMSE on the validation dataset.
