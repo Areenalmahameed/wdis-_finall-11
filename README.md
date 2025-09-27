@@ -1,4 +1,4 @@
-# wdis-_finall-11# Temperature Forecasting
+# Temperature Forecasting
 
 Predicting 2-meter temperature (`contest-tmp2m-14d__tmp2m`) using meteorological and climate features with **XGBoost**, **Ridge Regression**, and **CatBoost**. Hyperparameters are optimized with **Optuna**.
 
